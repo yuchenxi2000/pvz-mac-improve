@@ -1,5 +1,5 @@
 #!/bin/sh
-cd `dirname %0`
+cd `dirname $0`
 echo "请先确认PvZ已经打开\n"
 echo "由于注入代码需要root权限\n"
 echo "请输入登录密码\n"

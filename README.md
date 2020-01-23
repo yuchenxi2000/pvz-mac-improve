@@ -32,10 +32,11 @@
 
 ## 如何运行
 
-下载，每次玩之前先打开PvZ，双击/bin/launcher，输入登录密码。
+请先下载。
 
-注意每次玩PvZ时必须按上面做一遍，没按上面的做就是原版，做了就是改版。
+1. （推荐）bin文件夹里面有Plants vs. Zombies_M.app.zip，这是改版app打包，解压后即可（去了app签名，你可能需要到系统偏好设置-安全与隐私里允许运行）。
+2. （不推荐）如果你有原版app，每次玩之前先打开PvZ，然后双击bin/launcher，输入登录密码，就成了改版。不过每次玩时都要先打开PvZ，双击bin/launcher输入登录密码，所以你为什么不选择方案一呢？
 
 ## 自行编译
 
-需要asmjit库。
+需要asmjit库。（https://github.com/asmjit/asmjit）

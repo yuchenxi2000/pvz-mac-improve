@@ -39,4 +39,4 @@
 
 ## 自行编译
 
-需要asmjit库。（https://github.com/asmjit/asmjit）
+需要asmjit库。 https://github.com/asmjit/asmjit
